@@ -1,14 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-import CardSong from './components/card/CardSong';
+// import Playlists from './pages/playlists';
+import CardSong from './components/card/cardsong/CardSong';
 
 function App() {
   return (
     <div className="App">
-      {/* <h1>oke</h1> */}
       <CardSong />
     </div>
   );
 }
+
 
 export default App;
