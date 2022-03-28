@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-// import Playlists from './pages/playlists';
+// import index from './pages/Home'; FAILED TO RUNNING
 import CardSong from './components/card/cardsong/CardSong';
 
 function App() {
